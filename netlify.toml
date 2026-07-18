@@ -1,0 +1,11 @@
+[[redirects]]
+  from = "/link"
+  to = "/link.html"
+  status = 200
+  force = true
+
+[[redirects]]
+  from = "/link2"
+  to = "/link2.html"
+  status = 200
+  force = true
